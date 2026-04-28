@@ -1,7 +1,9 @@
 fastapi
 uvicorn
 python-multipart
-torch==2.1.0+cpu
-torchvision==0.16.0+cpu
-efficientnet_pytorch
-Pillow
+efficientnet-pytorch
+pillow
+numpy
+opencv-python-headless
+torch
+torchvision
